@@ -257,7 +257,7 @@ function initialize() {
 	mapPopin.style.border = "solid 1px #000000";
 	mapPopin.style.padding = "1em";
 	mapPopin.style.marginTop = "0em";	// was 1em is 0
-	mapPopin.style.marginLeft = "22em";	// to left of table TT 2016-05-07
+	mapPopin.style.right = "1em";	
 	
 	niceDisplay = document.createElement('p');
 	addressInput = document.createElement('input');
